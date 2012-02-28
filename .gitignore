@@ -2,3 +2,6 @@
 env
 imgs
 *.db
+log/
+dist/
+*.swp
